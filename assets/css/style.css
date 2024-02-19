@@ -1,3 +1,6 @@
 body {
     background-color: #189BCC;
+    a{
+        color: black;
+    }
 }
