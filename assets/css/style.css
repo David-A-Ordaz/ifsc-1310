@@ -4,3 +4,24 @@ body {
         color: black;
     }
 }
+
+body{
+    font-family: "Gabarito", sans-serif;
+    }
+    header.primary{
+    background-color: #f7862a;
+      color: white;
+      text-align:center;
+      text-shadow:2px 2px #000000;
+      /*long form*/
+      padding-top: 40px;
+      padding-right: 40px;
+      padding-bottom: 40px;
+      padding-left: 40px;
+      /*single value short hand*/
+      padding: 40px;
+      /*T,R,B,L*/
+      padding: 20px 40px 20px 40px;
+      /* Two value top/bottom / l/r*/
+      padding: 20px 40px;
+    }
